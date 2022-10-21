@@ -1,0 +1,8 @@
+# These folders contain thousands of files
+frames/*
+svg/*
+
+# ChemDraw JS
+chemdrawjs/__pycache__/*
+chemdrawjs/geckodriver.log
+chemdrawjs/log.txt
